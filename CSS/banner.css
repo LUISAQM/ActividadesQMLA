@@ -27,7 +27,9 @@
     text-decoration: none;
     padding: 7px;
     margin-top: 10px;
-    border: 3px solid white;
+    border: 3px solid white
+        overflow: hidden;
+	background-image: linear-gradient(to bottom right, #D45BA1, #A784E0);
 }
 
 #banner a:hover{
